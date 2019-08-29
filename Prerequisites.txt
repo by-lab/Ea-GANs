@@ -1,0 +1,2 @@
+NVIDIA GPU + CUDA CuDNN
+pytorch 0.4.1
